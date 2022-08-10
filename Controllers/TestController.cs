@@ -11,6 +11,7 @@ namespace WTGHTest.Controllers
         // GET: Test
         public ActionResult Index()
         {
+            //10082022 senthil test
             return View();
         }
     }
